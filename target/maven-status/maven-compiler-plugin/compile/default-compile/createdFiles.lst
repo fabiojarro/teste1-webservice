@@ -1,0 +1,14 @@
+br/com/vectorx/teste1/ws/impl/CalendarWSImpl.class
+br/com/vectorx/teste1/util/DataUtil.class
+br/com/vectorx/teste1/regras/Calendario.class
+br/com/vectorx/teste1/dao/impl/TbdataDaoImpl.class
+br/com/vectorx/teste1/ws/ICalendarWS.class
+br/com/vectorx/teste1/entidade/Tbtipo.class
+br/com/vectorx/teste1/dao/impl/TbanoDaoImpl.class
+br/com/vectorx/teste1/MainTesteBanco.class
+br/com/vectorx/teste1/ws/fault/DataException.class
+br/com/vectorx/teste1/dao/ITbdataDao.class
+br/com/vectorx/teste1/dao/ITbanoDao.class
+br/com/vectorx/teste1/entidade/Tbdata.class
+br/com/vectorx/teste1/util/JpaUtil.class
+br/com/vectorx/teste1/entidade/Tbano.class
